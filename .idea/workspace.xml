@@ -4,7 +4,147 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbc7683f-1229-4212-a051-e9c7da74bc17" name="Changes" comment="" />
+    <list default="true" id="cbc7683f-1229-4212-a051-e9c7da74bc17" name="Changes" comment="My project for gymnase №9">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/Analysis-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/COLLECT-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/EXE-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/PKG-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/PYZ-00.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/PYZ-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/Tree-00.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/Tree-01.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/Tree-02.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/prog.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/prog.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/prog.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/warn-prog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/prog/xref-prog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/business_schedule_workdays_work_days_calendar_briefcase_icon_188771.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/cash/online_cash.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/cash/online_cash.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/del_win.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/output_win.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/prog.spec" beforeDir="false" afterPath="$PROJECT_DIR$/data/prog.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/users.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/users.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/.idea/Проект мой планировщик.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/MSVCP140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/MSVCP140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/iconengines/qsvgicon.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qgif.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qicns.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qico.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qjpeg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qsvg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qtga.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qtiff.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qwbmp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/imageformats/qwebp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/platforms/qminimal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/platforms/qoffscreen.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/platforms/qwebgl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/platforms/qwindows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/platformthemes/qxdgdesktopportal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/plugins/styles/qwindowsvistastyle.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_ar.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_bg.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_ca.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_cs.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_da.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_de.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_en.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_es.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_fi.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_fr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_gd.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_he.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_hu.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_it.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_ja.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_ko.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_lv.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_pl.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_ru.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_sk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_tr.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_uk.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/Qt5/translations/qtbase_zh_TW.qm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/QtCore.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/QtGui.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/QtWidgets.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/PyQt5/sip.cp38-win_amd64.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5DBus.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Gui.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Network.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Qml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5QmlModels.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Quick.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Svg.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5WebSockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/Qt5Widgets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/VCRUNTIME140.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/VCRUNTIME140_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_asyncio.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_bz2.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_ctypes.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_decimal.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_hashlib.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_lzma.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_multiprocessing.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_overlapped.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_queue.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_socket.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_sqlite3.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/_ssl.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/business_schedule_workdays_work_days_calendar_briefcase_icon_188771.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/business_schedule_workdays_work_days_calendar_briefcase_icon_188771.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/d3dcompiler_47.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/del_win.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/func.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/libEGL.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/libGLESv2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/libcrypto-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/libffi-7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/libssl-1_1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/online_cash.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/opengl32sw.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/output_win.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/prog.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/prog.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/prog.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/programm_itog.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/pyexpat.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/python3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/python38.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/reg_win.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/run_programm.pyw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/select.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/table_zamet_users.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/unicodedata.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_admin.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_funny_mishk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_grigory_leps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_hello_kity_28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_ksenia_29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_loly_lips.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_mishk_frede.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/user_vasya228.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/prog/users.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog.pyw" beforeDir="false" afterPath="$PROJECT_DIR$/my_plans.pyw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programm_itog.pyw" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +181,7 @@
       <recent name="D:\Проект мой планировщик" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.programm_itog.pyw">
+  <component name="RunManager" selected="Python.my_plans.pyw">
     <configuration name="del_win.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Проект мой планировщик" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prog.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_plans.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Проект мой планировщик" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +215,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prog.pyw" />
+      <option name="SCRIPT_NAME" value="D:\Downloads Yandex\My_project\My_project\my_plans.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,6 +245,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="programm_itog.pyw (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Проект мой планировщик" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/programm_itog.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="programm_itog.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Проект мой планировщик" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,34 +287,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reg_win.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Проект мой планировщик" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reg_win.pyw" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.my_plans.pyw" />
+        <item itemvalue="Python.programm_itog.pyw (1)" />
         <item itemvalue="Python.programm_itog.pyw" />
-        <item itemvalue="Python.prog.pyw" />
         <item itemvalue="Python.del_win.pyw" />
         <item itemvalue="Python.programm_itog" />
-        <item itemvalue="Python.reg_win.pyw" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +306,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635870833887</updated>
     </task>
+    <task id="LOCAL-00001" summary="My project for gymnase №9">
+      <created>1648031809521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648031809521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +326,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My project for gymnase №9" />
+    <option name="LAST_COMMIT_MESSAGE" value="My project for gymnase №9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -186,6 +339,11 @@
           <url>file://$PROJECT_DIR$/mmm.py</url>
           <line>180</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_plans.pyw</url>
+          <line>150</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

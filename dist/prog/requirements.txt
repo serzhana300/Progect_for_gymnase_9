@@ -1,7 +1,0 @@
-import datetime as dt
-import os
-import time
-from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QMainWindow, QTableWidgetItem
-import sqlite3
-import func
